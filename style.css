@@ -1,3 +1,35 @@
 body {
     background-color: rgb(226, 226, 203);
 }
+
+.pImg {
+    width: 125px;
+    height: 120px;
+    border: 2px solid black;
+    margin: 5px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.pImg:active {
+    background-blend-mode: overlay;
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+.projDTF {
+    background-image: url('images/projDTF.png');  
+}
+
+.projMFC {
+    background-image: url('images/projMFC.png');
+}
+
+.projSAM {
+    background-image: url('images/projSAM.png');
+}
+
+.github {
+    background-image: url('images/github.png');
+}
