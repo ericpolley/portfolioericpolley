@@ -73,3 +73,7 @@ h6 {
         border-radius: 50%;
     }
 }
+
+.heightSpacer {
+    height: 50px;
+}
