@@ -28,8 +28,20 @@ h6 {
     background-image: url('images/projSAM.png');
 }
 
+.projMySite {
+    background-image: url('images/mySite.png');
+}
+
+.projSepSite {
+    background-image: url('images/PortfolioSept.png');
+}
+
 .github {
     background-image: url('images/github.png');
+}
+
+.smallSpacer {
+    height: 20px;
 }
 
 @media (max-width:600px) {
